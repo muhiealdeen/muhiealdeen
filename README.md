@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MuhieAldeen.MuhieAldeen)
 
 I am Muhie Aldeen, originally from Syria. Recently, I completed a comprehensive full-stack developer course at HackYourFuture. My passion lies in continuous learning, problem-solving, and embracing new challenges.
 
@@ -11,7 +12,8 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
   <img src="https://res.cloudinary.com/hapiii/image/upload/v1679305878/ae3jjcn1dxtm9g4lrubb.svg" alt="snake"></center>
  </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhieAldeen&langs_count=10&layout=compact)](https://github.com/MuhieAldeen/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhieAldeen&layout=compact&theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhieAldeen&langs_count=10&layout=compact)](https://github.com/MuhieAldeen/github-readme-stats) -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhieAldeen)](https://github.com/anuraghazra/github-readme-stats) -->
 
