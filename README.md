@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MuhieAldeen.MuhieAldeen)
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=MuhieAldeen&label=Profile%20views&color=0e75b6&style=flat" alt="MuhieAldeen"/></p> -->
 
 I am Muhie Aldeen, originally from Syria. Recently, I completed a comprehensive full-stack developer course at HackYourFuture. My passion lies in continuous learning, problem-solving, and embracing new challenges.
 
