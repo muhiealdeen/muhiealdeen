@@ -38,7 +38,6 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
  ![alt text](https://img.shields.io/badge/SQL,MySQL--4479A1?style=for-the-badge&logo=MySQL)
  ![alt text](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
  ![alt text](https://img.shields.io/badge/npm--CB3837?style=for-the-badge&logo=npm)
- ![alt text](https://img.shields.io/badge/CodePen--000000?style=for-the-badge&logo=CodePen)
  ![alt text](https://img.shields.io/badge/VSCode--007ACC?style=for-the-badge&logo=Visual-Studio-Code)
  ![alt text](https://img.shields.io/badge/Render--46E3B7?style=for-the-badge&logo=Render)
  ![alt text](https://img.shields.io/badge/Netlify--00C7B7?style=for-the-badge&logo=Netlify)
@@ -52,6 +51,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    <!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
  <!-- ![alt text](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) -->
   <!-- ![alt text](https://img.shields.io/badge/SQLAlchemy-FFA500?style=for-the-badge&logo=sqlalchemy&logoColor=white) -->
+   <!-- ![alt text](https://img.shields.io/badge/CodePen--000000?style=for-the-badge&logo=CodePen) -->
 
 
 
