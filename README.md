@@ -61,8 +61,8 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    <!-- ![alt text](https://img.shields.io/badge/C%23--239120?style=for-the-badge&logo=c-sharp) -->
    <!-- ![alt text](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) -->
    <!-- ![alt text](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
-   ![alt text](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-   ![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+   <!-- ![alt text](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+   ![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) -->
    ![alt text](https://img.shields.io/badge/Redux--764ABC?style=for-the-badge&logo=Redux)
    ![alt text](https://img.shields.io/badge/TypeScript--3178C6?style=for-the-badge&logo=TypeScript)
    ![alt text](https://img.shields.io/badge/Webpack--8DD6F9?style=for-the-badge&logo=Webpack)
