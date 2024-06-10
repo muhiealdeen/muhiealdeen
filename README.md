@@ -27,7 +27,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
  ![alt text](https://img.shields.io/badge/Html5--E34F26?style=for-the-badge&logo=Html5)
  ![alt text](https://img.shields.io/badge/Css3--1572B6?style=for-the-badge&logo=css3)
  ![alt text](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)
- ![alt text](https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![alt text](https://img.shields.io/badge/jQuery--0769AD?style=for-the-badge&logo=jQuery)
  ![alt text](https://img.shields.io/badge/Git--F05032?style=for-the-badge&logo=Git)
  ![alt text](https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=GitHub)
