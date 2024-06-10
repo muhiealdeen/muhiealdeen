@@ -70,6 +70,9 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    ![Next.js](https://img.shields.io/badge/Next.js--000000?style=for-the-badge&logo=next.js&logoColor=white)
    ![Docker](https://img.shields.io/badge/Docker--2496ED?style=for-the-badge&logo=docker&logoColor=white)
    ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS--38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
  
@@ -78,7 +81,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    
    ![alt text](https://img.shields.io/badge/React.Native--61DAFB?style=for-the-badge&logo=React)
    ![alt text](https://img.shields.io/badge/Vue.js--4FC08D?style=for-the-badge&logo=Vue.js)
-![Angular.js](https://img.shields.io/badge/Angular.js--DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular.js](https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
    ##### 📫 How to reach me:
 
