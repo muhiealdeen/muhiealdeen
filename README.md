@@ -68,8 +68,8 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    ![alt text](https://img.shields.io/badge/Webpack--8DD6F9?style=for-the-badge&logo=Webpack)
    ![alt text](https://img.shields.io/badge/Jest,unit.test--C21325?style=for-the-badge&logo=jest)
    ![Next.js](https://img.shields.io/badge/Next.js--000000?style=for-the-badge&logo=next.js&logoColor=white)
-   ![Docker](https://img.shields.io/badge/Docker--2496ED?style=for-the-badge&logo=docker&logoColor=white)
-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS--38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
