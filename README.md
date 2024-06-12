@@ -61,12 +61,14 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    <!-- ![alt text](https://img.shields.io/badge/C%23--239120?style=for-the-badge&logo=c-sharp) -->
    <!-- ![alt text](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) -->
    <!-- ![alt text](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
+   <!--![alt text](https://img.shields.io/badge/Jest,unit.test--C21325?style=for-the-badge&logo=jest) -->
    <!-- ![alt text](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
    ![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) -->
+   
    ![alt text](https://img.shields.io/badge/Redux--764ABC?style=for-the-badge&logo=Redux)
    ![alt text](https://img.shields.io/badge/TypeScript--3178C6?style=for-the-badge&logo=TypeScript)
    ![alt text](https://img.shields.io/badge/Webpack--8DD6F9?style=for-the-badge&logo=Webpack)
-   ![alt text](https://img.shields.io/badge/Jest,unit.test--C21325?style=for-the-badge&logo=jest)
+  
    ![Next.js](https://img.shields.io/badge/Next.js--000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
