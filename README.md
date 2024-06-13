@@ -86,6 +86,13 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/muhiealdeen/) [<img src="https://img.shields.io/badge/-Hotmail-0078D4?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge" height="30" alt="Hotmail">](mailto:zezo1998@hotmail.com)
 
+   ## Projects
+### [Project Name](https://github.com/yourusername/project)
+Description of your project, what it does, and why it’s interesting.
+
+### [Another Project](https://github.com/yourusername/another-project)
+Description of your project, what it does, and why it’s interesting.
+
 
 ---
 
