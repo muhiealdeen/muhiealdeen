@@ -65,7 +65,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    <!-- ![alt text](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
    ![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) -->
    
-   ![alt text](https://img.shields.io/badge/Redux--764ABC?style=for-the-badge&logo=Redux)
+   <!-- ![alt text](https://img.shields.io/badge/Redux--764ABC?style=for-the-badge&logo=Redux) -->
    ![alt text](https://img.shields.io/badge/TypeScript--3178C6?style=for-the-badge&logo=TypeScript)
    ![alt text](https://img.shields.io/badge/Webpack--8DD6F9?style=for-the-badge&logo=Webpack)
    ![Next.js](https://img.shields.io/badge/Next.js--000000?style=for-the-badge&logo=next.js&logoColor=white)
