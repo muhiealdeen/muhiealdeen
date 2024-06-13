@@ -87,8 +87,16 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/muhiealdeen/) [<img src="https://img.shields.io/badge/-Hotmail-0078D4?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge" height="30" alt="Hotmail">](mailto:zezo1998@hotmail.com)
 
    ## Projects
-### [Project Name](https://github.com/yourusername/project)
-Description of your project, what it does, and why it’s interesting.
+### [The Daily Weather App]
+ the like of the repo :[https://github.com/muhiealdeen/Weather-App](https://github.com/yourusername/another-project)
+ 
+The Daily Weather App provides real-time weather information for cities worldwide, helping you plan for vacations or daily outfits. Simply enter the name of a city to receive accurate weather data, including precipitation, wind speed, and more, for the next 3 days (up to 16 days). If no city is entered, an error message will appear.
+
+Stay informed and prepared with the Daily Weather App.
+
+Check out the app here:[https://muhiealdeen.github.io/Weather-App].
+
+Built with JavaScript, HTML5, and CSS. Uses the Open Meteo API [https://open-meteo.com].
 
 ### [Another Project](https://github.com/yourusername/another-project)
 Description of your project, what it does, and why it’s interesting.
