@@ -98,12 +98,12 @@ Check out the app [here](https://muhiealdeen.github.io/Weather-App).
 
 Built with JavaScript, HTML5, and CSS. Uses the [Open Meteo API](https://open-meteo.com).
 
-### [Another Project](https://github.com/yourusername/another-project)
+<!--### [Another Project](https://github.com/yourusername/another-project)
 
 Description of your project, what it does, and why it’s interesting.
 ### [Another Project](https://github.com/yourusername/another-project)
 
-Description of your project, what it does, and why it’s interesting.
+Description of your project, what it does, and why it’s interesting.-->
 
 
 ---
