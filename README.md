@@ -90,9 +90,10 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 
 ### [The Daily Weather App](https://github.com/muhiealdeen/Weather-App)
 
-The Daily Weather App provides real-time weather information for cities worldwide, helping you plan for vacations or daily outfits. Simply enter the name of a city to receive accurate weather data, including precipitation, wind speed, and more, for the next 3 days (up to 16 days). If no city is entered, an error message will appear.
+The Daily Weather App provides real-time weather information for cities worldwide, helping you plan for vacations or daily outfits.
+<!--Simply enter the name of a city to receive accurate weather data, including precipitation, wind speed, and more, for the next 3 days (up to 16 days). If no city is entered, an error message will appear.
 
-Stay informed and prepared with the Daily Weather App.
+Stay informed and prepared with the Daily Weather App. -->
 
 Check out the app [here](https://muhiealdeen.github.io/Weather-App).
 
