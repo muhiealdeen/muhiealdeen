@@ -99,10 +99,11 @@ Check out the app [here](https://muhiealdeen.github.io/Weather-App).
 
 Built with JavaScript, HTML5, and CSS. Uses the [Open Meteo API](https://open-meteo.com).
 
-<!--### [Another Project](https://github.com/yourusername/another-project)
+### [FOODY_App](https://github.com/muhiealdeen/Foody?tab=readme-ov-file)
 
-Description of your project, what it does, and why it’s interesting.
-### [Another Project](https://github.com/yourusername/another-project)
+Foody is a user-friendly app that offers a rich collection of Middle Eastern recipes. Each recipe is accompanied by images, detailed ingredient lists, and total calorie counts, making it easy to explore and prepare delicious meals from the region.
+Check out the app [here]([https://muhiealdeen.github.io/Weather-App](https://64e91c4c04ddee47b7bdced3--delicate-alfajores-1d9d23.netlify.app/)).
+<!--### [Another Project](https://github.com/yourusername/another-project)
 
 Description of your project, what it does, and why it’s interesting.-->
 
