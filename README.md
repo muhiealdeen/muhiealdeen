@@ -87,6 +87,12 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/muhiealdeen/) [<img src="https://img.shields.io/badge/-Hotmail-0078D4?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge" height="30" alt="Hotmail">](mailto:zezo1998@hotmail.com)
 
 ## Projects
+### [FOODY_App](https://github.com/muhiealdeen/Foody?tab=readme-ov-file)
+
+Foody is a user-friendly app that offers a rich collection of Middle Eastern recipes. Each recipe is accompanied by images, detailed ingredient lists, and total calorie counts, making it easy to explore and prepare delicious meals from the region.
+
+
+Check out the app [here](https://64e91c4c04ddee47b7bdced3--delicate-alfajores-1d9d23.netlify.app/).
 
 ### [The Daily Weather App](https://github.com/muhiealdeen/Weather-App)
 
@@ -99,12 +105,7 @@ Check out the app [here](https://muhiealdeen.github.io/Weather-App).
 
 Built with JavaScript, HTML5, and CSS. Uses the [Open Meteo API](https://open-meteo.com).
 
-### [FOODY_App](https://github.com/muhiealdeen/Foody?tab=readme-ov-file)
 
-Foody is a user-friendly app that offers a rich collection of Middle Eastern recipes. Each recipe is accompanied by images, detailed ingredient lists, and total calorie counts, making it easy to explore and prepare delicious meals from the region.
-
-
-Check out the app [here](https://64e91c4c04ddee47b7bdced3--delicate-alfajores-1d9d23.netlify.app/).
 
 <!--### [Another Project](https://github.com/yourusername/another-project)
 
