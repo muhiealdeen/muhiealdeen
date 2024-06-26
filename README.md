@@ -93,7 +93,8 @@ Foody is a user-friendly app that offers a rich collection of Middle Eastern rec
 
 
 Check out the app [here](https://64e91c4c04ddee47b7bdced3--delicate-alfajores-1d9d23.netlify.app/).
-<!--Built with JavaScript, HTML5, and CSS. Uses the [Open Meteo API](https://open-meteo.com).-->
+Built with JavaScript, HTML5, and CSS. I used [edamam API](https://api.edamam.com) to get the required data for this App.
+ 
 
 ### [The Daily Weather App](https://github.com/muhiealdeen/Weather-App)
 
