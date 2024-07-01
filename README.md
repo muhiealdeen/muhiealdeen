@@ -110,7 +110,6 @@ Built with JavaScript, HTML5, and CSS. Uses the [Open Meteo API](https://open-me
 
 
 
-
 <!--### [Another Project](https://github.com/yourusername/another-project)
 
 Description of your project, what it does, and why it’s interesting.-->
