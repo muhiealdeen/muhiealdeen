@@ -48,7 +48,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
   <!-- ![alt text](https://img.shields.io/badge/PHP--777BB4?style=for-the-badge&logo=PHP) -->
   <!-- ![alt text](https://img.shields.io/badge/Laravel--FF2D20?style=for-the-badge&logo=Laravel) -->
   <!-- ![alt text](https://img.shields.io/badge/Python--3776ab?style=for-the-badge&logo=python) -->
-   <!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
+  <!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
  <!-- ![alt text](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) -->
  <!-- ![alt text](https://img.shields.io/badge/SQLAlchemy-FFA500?style=for-the-badge&logo=sqlalchemy&logoColor=white) -->
    <!-- ![alt text](https://img.shields.io/badge/CodePen--000000?style=for-the-badge&logo=CodePen) -->
