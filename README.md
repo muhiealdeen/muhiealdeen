@@ -93,7 +93,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 
 HackYourClub! is an intuitive app designed to simplify finding clubs and activities you'd like to join. With this app, you can easily discover activities or clubs that interest you, share your opinions about them, and interact with the community. Sign up to share your thoughts, like others' opinions, and add clubs or activities to your favorites list.
 
-Check out the app [here](https://your-app-url.netlify.app/).
+Check out the app [here](https://hyf-c43-group-2-3428e3260232.herokuapp.com).
 
 Built with JavaScript, React.js, Node.js, Express.js, and MongoDB.
 
