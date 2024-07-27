@@ -83,7 +83,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    ![alt text](https://img.shields.io/badge/Vue.js--4FC08D?style=for-the-badge&logo=Vue.js)
 ![Angular.js](https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
- 
+ ---
    
    ##### 📫 How to reach me:
 
