@@ -89,6 +89,15 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 
 
 ## Projects
+### [HackYourClub!](https://github.com/muhiealdeen/hackYourClub)
+
+HackYourClub! is an intuitive app designed to simplify finding clubs and activities you'd like to join. With this app, you can easily discover activities or clubs that interest you, share your opinions about them, and interact with the community. Sign up to share your thoughts, like others' opinions, and add clubs or activities to your favorites list.
+
+Check out the app [here](https://your-app-url.netlify.app/).
+
+Built with JavaScript, React.js, Node.js, Express.js, and MongoDB.
+
+
 ### [FOODY_App](https://github.com/muhiealdeen/Foody?tab=readme-ov-file)
 
 Foody is a user-friendly app that offers a rich collection of Middle Eastern recipes. Each recipe is accompanied by images, detailed ingredient lists, and total calorie counts, making it easy to explore and prepare delicious meals from the region.
