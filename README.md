@@ -95,7 +95,7 @@ HackYourClub! is an intuitive app designed to simplify finding clubs and activit
 
 Check out the app [here](https://hyf-c43-group-2-3428e3260232.herokuapp.com).
 
-Built with JavaScript, React.js, Node.js, Express.js, and MongoDB.
+Built as a full stack MERN (MongoDB, Express.js, React.js, Node.js) project. This app was created by me and three of my colleagues as our graduation project from HackYourFuture.
 
 
 ### [FOODY_App](https://github.com/muhiealdeen/Foody?tab=readme-ov-file)
