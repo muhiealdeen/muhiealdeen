@@ -76,7 +76,6 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 ---
  
 
-
   ##### The next plan study the following:
 
    ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
