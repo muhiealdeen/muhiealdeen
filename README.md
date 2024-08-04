@@ -122,7 +122,6 @@ Check out the app [here](https://muhiealdeen.github.io/Weather-App).
 
 Built with JavaScript, HTML5, and CSS. Uses the [Open Meteo API](https://open-meteo.com).
 
-
 ---
 
 *Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.*
