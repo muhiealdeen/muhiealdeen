@@ -77,7 +77,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
- 
+
 
   ##### The next plan study the following:
 
