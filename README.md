@@ -56,7 +56,6 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    <!-- ![alt text](https://img.shields.io/badge/CodePen--000000?style=for-the-badge&logo=CodePen) -->
 
 
-
 ---
 
  ##### 🔭 I’m currently working on updating my skills on the following technologies:
