@@ -9,7 +9,6 @@ Aside from my technical skills, I bring a unique perspective with a background i
 I'm eager to apply my knowledge and skills and look forward to exploring opportunities to make meaningful contributions.
 
 
-
  <div>
   <p align="center">
   <img src="https://res.cloudinary.com/hapiii/image/upload/v1679305878/ae3jjcn1dxtm9g4lrubb.svg" alt="snake"></center>
