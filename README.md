@@ -29,6 +29,8 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
  ![alt text](https://img.shields.io/badge/Css3--1572B6?style=for-the-badge&logo=css3)
  ![alt text](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)
  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <!--![alt text](https://img.shields.io/badge/Python--3776ab?style=for-the-badge&logo=python)-->
+ ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![alt text](https://img.shields.io/badge/jQuery--0769AD?style=for-the-badge&logo=jQuery)
  ![alt text](https://img.shields.io/badge/Git--F05032?style=for-the-badge&logo=Git)
  ![alt text](https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=GitHub)
@@ -38,6 +40,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
  ![alt text](https://img.shields.io/badge/MogoDB--47A248?style=for-the-badge&logo=MongoDB)
  ![alt text](https://img.shields.io/badge/SQL,MySQL--4479A1?style=for-the-badge&logo=MySQL)
  ![alt text](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
  ![alt text](https://img.shields.io/badge/npm--CB3837?style=for-the-badge&logo=npm)
  ![alt text](https://img.shields.io/badge/VSCode--007ACC?style=for-the-badge&logo=Visual-Studio-Code)
  ![alt text](https://img.shields.io/badge/Render--46E3B7?style=for-the-badge&logo=Render)
@@ -48,7 +51,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
   <!-- ![alt text](https://img.shields.io/badge/Redux--764ABC?style=for-the-badge&logo=Redux) -->
   <!-- ![alt text](https://img.shields.io/badge/PHP--777BB4?style=for-the-badge&logo=PHP) -->
   <!-- ![alt text](https://img.shields.io/badge/Laravel--FF2D20?style=for-the-badge&logo=Laravel) -->
-  <!-- ![alt text](https://img.shields.io/badge/Python--3776ab?style=for-the-badge&logo=python) -->
+ 
   <!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
  <!-- ![alt text](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) -->
  <!-- ![alt text](https://img.shields.io/badge/SQLAlchemy-FFA500?style=for-the-badge&logo=sqlalchemy&logoColor=white) -->
@@ -70,7 +73,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
    ![alt text](https://img.shields.io/badge/TypeScript--3178C6?style=for-the-badge&logo=TypeScript)
    ![alt text](https://img.shields.io/badge/Webpack--8DD6F9?style=for-the-badge&logo=Webpack)
    ![Next.js](https://img.shields.io/badge/Next.js--000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
@@ -78,7 +81,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 
   ##### The next plan study the following:
 
-   ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
    ![alt text](https://img.shields.io/badge/React.Native--61DAFB?style=for-the-badge&logo=React)
    ![alt text](https://img.shields.io/badge/Vue.js--4FC08D?style=for-the-badge&logo=Vue.js)
 ![Angular.js](https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
