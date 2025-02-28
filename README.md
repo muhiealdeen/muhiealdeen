@@ -67,7 +67,6 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 
 
 
-
 ---
 
  ##### 🔭 I’m currently working on updating my skills on the following technologies:
