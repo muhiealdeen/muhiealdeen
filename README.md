@@ -66,7 +66,6 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 ![PyCharm](https://img.shields.io/badge/PyCharm--000000?style=for-the-badge&logo=pycharm&logoColor=34D058)  
 
 
-
 ---
 
  ##### 🔭 I’m currently working on updating my skills on the following technologies:
