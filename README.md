@@ -23,6 +23,8 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 
 ---
 
+
+
 ##### Technologies I have worked with:
 
 ### 🌐 Frontend Development  
