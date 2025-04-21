@@ -34,7 +34,7 @@ I'm eager to apply my knowledge and skills and look forward to exploring opportu
 ![jQuery](https://img.shields.io/badge/jQuery--0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
 ![React.js](https://img.shields.io/badge/React.js--20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Jinja2](https://img.shields.io/badge/Jinja2--B41717?style=for-the-badge&logo=jinja&logoColor=F0DB4F)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS--38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🖥️ Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js--339933?style=for-the-badge&logo=node.js&logoColor=white) 
